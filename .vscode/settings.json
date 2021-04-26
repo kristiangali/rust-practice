@@ -1,0 +1,4 @@
+{
+    "scss.lint.idSelector": "error",
+    "rust-assist.diagnosticsOnStartup": false
+}

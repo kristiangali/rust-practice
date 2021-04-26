@@ -1,0 +1,9 @@
+[package] 
+name = "p_one"
+version = "0.1.0"
+authors = ["mrgali"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.5.1"
+glam = { version = "0.12", features = ["mint"]}
